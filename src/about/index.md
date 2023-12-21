@@ -1,29 +1,34 @@
 ---
 layout: singlepost
-title: "The About Me page"
-# Change the title setting for this in /src/_includes/layouts/posts/singlepostherofit.njk
-# to keep the "Other posts" box from appearing at the bottom of this page, since it uses 
-# the same layout as posts.
-description: "Your UNIQUE description here."
-author: Your name here
-date: 2018-09-14T15:00:00
-lastmod: 2020-04-22T19:30:00
-draft: false
-featured_image: question-mark-over-mac-keyboard-49958_1280x905.jpg
-featured_image_alt: Stylistic image of question mark superimposed over computer keyboard
-featured_image_caption: "Image: Dalamo; Pixabay"
+title: "Sidney - @shnakatani"
 ---
 
-**Important**: Be sure to change the title setting for this page in the template, to keep the "Other posts" box from appearing at the bottom of this page---since it uses the same layout as the posts.
+Desenvolvedor de software💻, pai, marido, filho, irmão, louco por carros🚙 e eletrônica⚡, investidor💰 e faixa preta de jiu-jitsu👊.  
 
-This is for a few words about you.
+Formado em Tecnologia da informação pela Universidade de Mogi das Cruzes, atuando na área de engenharia e desenvolvimento de software desde 2008.
 
-## In-article heading --- it's an H2 because your title is the H1
+Atualmente trabalhando em pesquisa e desenvolvimento no setor fiscal e varejo pela empresa [TOTVS](https://totvs.com.br) (TOTS3).
 
-And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.
+<br>
 
-### Subheading (H3)
+##### 📚 Certificados conquistados.
+_________________
 
-Text here.
+‎ ‎ ‎ ‎ ‎  |‎ ‎ ‎ ‎  ‎ |‎ ‎ ‎ ‎ 
+:------:|:---:|:----------------------:
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Azure Cosmos DB Developer Specialty</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Dynamics 365 Fundamentals (ERP)</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Azure AI Fundamentals</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Power Platform Fundamentals</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Azure Security, Compliance, and Identity Fundamentals</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Azure Data Fundamentals</p>
+<img alt="alt_text" width="30px" src="/images/icons/azure.png" /> | <p align="left">Azure Fundamentals</p>
 
-Closing text. That ends your "About" item!
+<br>
+
+##### 🔗 Siga nas redes sociais.
+_________________
+‎ ‎ ‎ |‎ ‎ ‎ |‎ 
+:------:|:---:|:----------------------:
+[<img alt="alt_text" width="40px" src="/images/icons/x.png" />](https://twitter.com/shnakatani) | [<img alt="alt_text" width="40px" src="/images/icons/twitter.png" />](https://twitter.com/shnakatani) | [<img alt="alt_text" width="40px" src="/images/icons/linkedin.png" />](https://www.linkedin.com/in/shnakatni/) 
+
